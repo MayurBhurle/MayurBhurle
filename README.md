@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mayur Ramesh Bhurle (Roll no. 23M1027, M.Tech., Educational Tech, IITB)
-- 👀 I’m interested in Educational Technology and Data Analytics
-- 🌱 I’m currently learning Python, SQL, R, Power BI
+- 👋 Hi, I’m Mayur Ramesh Bhurle (M.Tech., Centre for Educational Tech, IITB)
+- 👀 I’m interested in Educational Technology, Gen AI and Data Science
 - 📫 How to reach me : email at 23m1027@iitb.ac.in or myrbhurle@gmail.com or on LinkedIn (https://www.linkedin.com/in/mayur-bhurle-07b405170/?original_referer=)
 
 
